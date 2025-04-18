@@ -5,7 +5,7 @@ import openai
 import os
 
 # Set your OpenAI API key (Ensure this is set securely in your environment)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Initialize OpenAI client
 client = openai.OpenAI()
